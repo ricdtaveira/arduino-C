@@ -1,2 +1,2 @@
 # arduino-C
-Repositório de código C para a plataformaArduino
+Repositório de código C para a plataforma Arduino.
